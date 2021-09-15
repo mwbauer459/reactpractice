@@ -20,7 +20,6 @@ class Square extends React.Component {
     );
   }
 }
-// This is a comment
 
 class Board extends React.Component {
   renderSquare(i) {
@@ -69,7 +68,6 @@ class Game extends React.Component {
   }
 }
 
-fuck  you  git
 // ========================================
 
 ReactDOM.render(
